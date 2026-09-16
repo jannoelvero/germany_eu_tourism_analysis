@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Environment variables and credentials
+.env
+.env.*
+*.env
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Anaconda / local project artifacts
+anaconda_projects/
+
+# Tableau temporary / recovery files
+*.twbr
+.~*
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Python packaging
+build/
+dist/
+*.egg-info/

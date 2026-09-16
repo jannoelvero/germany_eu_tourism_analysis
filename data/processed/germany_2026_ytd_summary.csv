@@ -1,0 +1,3 @@
+year,foreign_arrivals,foreign_nights,avg_length_of_stay,arrivals_growth_pct,nights_growth_pct,los_change_pct,arrivals_change,nights_change,los_change_nights
+2025,16020024.0,35984384.0,2.2462128645999533,,,,,,
+2026,16346103.0,36249231.0,2.2176069121796185,2.035446388844364,0.7360053738866279,-1.2735192141030471,326079.0,264847.0,-0.028605952420334813

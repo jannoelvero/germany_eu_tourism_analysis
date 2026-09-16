@@ -1,0 +1,13 @@
+date,year,month,foreign_nights_value,data_type,observation_status
+2026-01-01,2026,1,4277203.0,Actual,Observed
+2026-02-01,2026,2,5078278.0,Actual,Observed
+2026-03-01,2026,3,5197078.0,Actual,Observed
+2026-04-01,2026,4,6596278.0,Actual,Observed
+2026-05-01,2026,5,7446648.0,Actual,Observed
+2026-06-01,2026,6,7653746.0,Actual,Observed
+2026-07-01,2026,7,10358796.0,Seasonal Naive Projection,Projected
+2026-08-01,2026,8,9689151.0,Seasonal Naive Projection,Projected
+2026-09-01,2026,9,7674317.0,Seasonal Naive Projection,Projected
+2026-10-01,2026,10,7195093.0,Seasonal Naive Projection,Projected
+2026-11-01,2026,11,5590732.0,Seasonal Naive Projection,Projected
+2026-12-01,2026,12,6582972.0,Seasonal Naive Projection,Projected

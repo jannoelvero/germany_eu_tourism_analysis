@@ -1,0 +1,17 @@
+source_market_code,source_market,foreign_nights,germany_foreign_nights_share_pct,growth_2023_2024_pct,absolute_growth_nights,avg_length_of_stay,strategic_role,stay_extension_priority,recommended_action,market_label,stay_extension_priority_order
+US,United States,7223819.0,8.519394302118407,10.750401832885354,701207.0,2.2413846171508074,Core Growth Market,Lower,Protect growth while strengthening repeat visitation and trip extension,United States (US),3
+UK,United Kingdom,5274041.0,6.219928107907862,10.880104513251895,517515.0,2.222396815684926,Core Growth Market,Lower,Protect growth while strengthening repeat visitation and trip extension,United Kingdom (UK),3
+NL,Netherlands,11867612.0,13.996040882606833,3.659705540210677,418986.0,2.2604462870270177,Core Retention Market,Lower,Defend market share and maintain strong visitor volume,Netherlands (NL),3
+AT,Austria,4360393.0,5.142419443122396,4.927287852416226,204760.0,2.045902440832532,Stay Extension Opportunity,High,"Prioritize longer-stay products, multi-destination itineraries, and trip extension",Austria (AT),1
+PL,Poland,4167089.0,4.9144468158767936,0.1556260686523671,6475.0,2.832105343641152,Core Retention Market,Lower,Defend market share and maintain strong visitor volume,Poland (PL),3
+FR,France,3680328.0,4.340386351475145,4.836640330707334,169792.0,1.9904122598467953,Stay Extension Opportunity,High,"Prioritize longer-stay products, multi-destination itineraries, and trip extension",France (FR),1
+IT,Italy,3497676.0,4.124976135899348,4.6058345435796335,154004.0,2.21733408392417,Stay Extension Opportunity,High,"Prioritize longer-stay products, multi-destination itineraries, and trip extension",Italy (IT),1
+ES,Spain,2720461.0,3.208369415476127,7.653031343883653,193397.0,2.4222591039694277,Emerging Growth Market,Lower,Support growth selectively and monitor whether momentum is sustained,Spain (ES),3
+TR,Türkiye,1225934.0,1.4458024397307332,17.9459747566632,186531.0,2.5106935498735368,Emerging Growth Market,Lower,Support growth selectively and monitor whether momentum is sustained,Türkiye (TR),3
+CH_LI,Switzerland and Liechtenstein,6897129.0,8.134113202943709,2.4147725163508653,162623.0,2.080067373982906,Monitor / Maintain,High,"Maintain presence and monitor for changes in scale, growth, or stay duration",Switzerland and Liechtenstein (CH_LI),1
+CN,China,1824786.0,2.15205716685114,40.55281862631827,526494.0,2.1673432737966567,Growth Market - Shorter Stay,Emerging,Capture growth while actively testing stay-extension opportunities,China (CN),2
+CZ,Czechia,1452153.0,1.712593296427298,3.0868855636064967,43484.0,2.2224767904204814,Long-Stay Niche,Lower,Protect high-stay-value segments and develop targeted niche propositions,Czechia (CZ),3
+RO,Romania,1392200.0,1.6418878639413923,1.9689932814137672,26883.0,3.4613758981626512,Long-Stay Niche,Lower,Protect high-stay-value segments and develop targeted niche propositions,Romania (RO),3
+DK,Denmark,3051481.0,3.598757090179388,1.866048066786354,55899.0,1.9947436233503144,Monitor / Maintain,Lower,"Maintain presence and monitor for changes in scale, growth, or stay duration",Denmark (DK),3
+BE,Belgium,3044527.0,3.5905559062935604,3.558510294532826,104617.0,2.0773926820747404,Monitor / Maintain,Lower,"Maintain presence and monitor for changes in scale, growth, or stay duration",Belgium (BE),3
+SE,Sweden,1483871.0,1.7499998466847997,3.097501613643959,44582.0,1.7986685786252563,Monitor / Maintain,Lower,"Maintain presence and monitor for changes in scale, growth, or stay duration",Sweden (SE),3

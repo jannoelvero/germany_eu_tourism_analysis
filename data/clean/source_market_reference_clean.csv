@@ -1,0 +1,64 @@
+source_market_code,source_market,market_type,international_market
+AFR,Africa,regional_aggregate,False
+AFR_OTH,Other African countries (aggregate changing according to the context),regional_aggregate,False
+AME,America,regional_aggregate,False
+AME_C_S,Central and South America,regional_aggregate,False
+AME_C_S_OTH,Other Central or South American countries,regional_aggregate,False
+AME_N,Northern America,regional_aggregate,False
+AME_N_OTH,Other Northern American countries,regional_aggregate,False
+ASI,Asia,regional_aggregate,False
+ASI_OTH,Other Asian countries (aggregate changing according to the context),regional_aggregate,False
+AT,Austria,individual_country,True
+AU,Australia,individual_country,True
+BE,Belgium,individual_country,True
+BG,Bulgaria,individual_country,True
+BR,Brazil,individual_country,True
+CA,Canada,individual_country,True
+CH_LI,Switzerland and Liechtenstein,combined_market,True
+CN,China,individual_country,True
+CY,Cyprus,individual_country,True
+CZ,Czechia,individual_country,True
+DE,Germany,domestic,False
+DK,Denmark,individual_country,True
+DOM,Domestic country,domestic,False
+EE,Estonia,individual_country,True
+EFTA,European Free Trade Association,regional_aggregate,False
+EL,Greece,individual_country,True
+ES,Spain,individual_country,True
+EU27_2020_FOR,EU27 countries (from 2020) except reporting country,eu_aggregate,False
+EUR,Europe,regional_aggregate,False
+EUR_OTH,Other European countries (aggregate changing according to the context),regional_aggregate,False
+FI,Finland,individual_country,True
+FR,France,individual_country,True
+HR,Croatia,individual_country,True
+HU,Hungary,individual_country,True
+IE,Ireland,individual_country,True
+INT_EU27_2007,Intra-EU27 (2007-2013),eu_aggregate,False
+INT_EU27_2020,Intra-EU27 (from 2020),eu_aggregate,False
+INT_EU28,Intra-EU28 (2013-2020),eu_aggregate,False
+IS,Iceland,individual_country,True
+IT,Italy,individual_country,True
+JP,Japan,individual_country,True
+KR,South Korea,individual_country,True
+LT,Lithuania,individual_country,True
+LU,Luxembourg,individual_country,True
+LV,Latvia,individual_country,True
+MT,Malta,individual_country,True
+NL,Netherlands,individual_country,True
+NO,Norway,individual_country,True
+OCE,Oceania,regional_aggregate,False
+OCE_OTH,Other Oceanian countries (aggregate changing according to the context),regional_aggregate,False
+PL,Poland,individual_country,True
+PT,Portugal,individual_country,True
+RO,Romania,individual_country,True
+RU,Russia,individual_country,True
+SE,Sweden,individual_country,True
+SI,Slovenia,individual_country,True
+SK,Slovakia,individual_country,True
+TR,Türkiye,individual_country,True
+UA,Ukraine,individual_country,True
+UK,United Kingdom,individual_country,True
+US,United States,individual_country,True
+WORLD,All countries of the world,world_aggregate,False
+WRL_NAL,World - not allocated,world_aggregate,False
+ZA,South Africa,individual_country,True

@@ -1,0 +1,8 @@
+dimension,indicator,value,strategic_signal
+Visitor Scale,2024 EU arrivals rank,4.0,Strength
+Overnight Scale,2024 EU nights rank,7.0,Strength
+Stay Duration,2024 EU LOS rank,21.0,Constraint
+2026 Visitor Momentum,H1 arrivals growth,2.035446388844364,Positive
+2026 Overnight Momentum,H1 nights growth,0.7360053738866279,Modest
+2026 Stay Duration,H1 LOS change,-1.2735192141030471,Negative
+2026 Baseline Scenario,Implied full-year nights growth,0.3188029868512965,Modest

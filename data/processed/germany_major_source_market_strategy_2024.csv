@@ -1,0 +1,17 @@
+source_market_code,source_market,market_type,foreign_nights,foreign_arrivals,germany_foreign_nights_share_pct,published_market_share_pct,growth_2023_2024_pct,absolute_growth_nights,avg_length_of_stay,high_scale,high_growth,longer_stay,opportunity_score,strategic_role,stay_extension_priority
+US,United States,individual_country,7223819.0,3222927.0,8.519394302118407,9.617271977541456,10.750401832885354,701207.0,2.2413846171508074,True,True,True,3,Core Growth Market,Lower
+UK,United Kingdom,individual_country,5274041.0,2373132.0,6.219928107907862,7.021478073814519,10.880104513251897,517515.0,2.222396815684926,True,True,True,3,Core Growth Market,Lower
+NL,Netherlands,individual_country,11867612.0,5250119.0,13.996040882606833,15.799683287736682,3.659705540210677,418986.0,2.2604462870270177,True,False,True,2,Core Retention Market,Lower
+AT,Austria,individual_country,4360393.0,2131281.0,5.142419443122396,5.8051129755559945,4.927287852416226,204760.0,2.045902440832532,True,True,False,2,Stay Extension Opportunity,High
+PL,Poland,individual_country,4167089.0,1471375.0,4.9144468158767936,5.547761961868265,0.15562606865236717,6475.0,2.832105343641152,True,False,True,2,Core Retention Market,Lower
+FR,France,individual_country,3680328.0,1849028.0,4.340386351475145,4.899723448574942,4.836640330707334,169792.0,1.9904122598467953,True,True,False,2,Stay Extension Opportunity,High
+IT,Italy,individual_country,3497676.0,1577424.0,4.124976135899348,4.656553739970408,4.6058345435796335,154004.0,2.21733408392417,True,True,False,2,Stay Extension Opportunity,High
+ES,Spain,individual_country,2720461.0,1123109.0,3.208369415476127,3.6218257048376223,7.653031343883653,193397.0,2.4222591039694277,False,True,True,2,Emerging Growth Market,Lower
+TR,Türkiye,individual_country,1225934.0,488285.0,1.4458024397307332,1.6321201714100682,17.9459747566632,186531.0,2.5106935498735368,False,True,True,2,Emerging Growth Market,Lower
+CH_LI,Switzerland and Liechtenstein,combined_market,6897129.0,3315820.0,8.134113202943709,9.182340456922928,2.4147725163508653,162623.0,2.080067373982906,True,False,False,1,Monitor / Maintain,High
+CN,China,individual_country,1824786.0,841946.0,2.15205716685114,2.4293885634191508,40.55281862631827,526494.0,2.1673432737966567,False,True,False,1,Growth Market - Shorter Stay,Emerging
+CZ,Czechia,individual_country,1452153.0,653394.0,1.712593296427298,1.9332918438298023,3.0868855636064967,43484.0,2.2224767904204814,False,False,True,1,Long-Stay Niche,Lower
+RO,Romania,individual_country,1392200.0,402210.0,1.6418878639413923,1.8534747405954128,1.9689932814137672,26883.0,3.4613758981626512,False,False,True,1,Long-Stay Niche,Lower
+DK,Denmark,individual_country,3051481.0,1529761.0,3.598757090179388,4.062521875382008,1.866048066786354,55899.0,1.9947436233503142,False,False,False,0,Monitor / Maintain,Lower
+BE,Belgium,individual_country,3044527.0,1465552.0,3.5905559062935604,4.053263820974523,3.558510294532826,104617.0,2.0773926820747404,False,False,False,0,Monitor / Maintain,Lower
+SE,Sweden,individual_country,1483871.0,824983.0,1.7499998466847995,1.9755189030326505,3.097501613643959,44582.0,1.7986685786252565,False,False,False,0,Monitor / Maintain,Lower
