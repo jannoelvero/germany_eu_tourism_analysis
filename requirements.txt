@@ -10,3 +10,6 @@ requests
 openpyxl
 jupyter
 ipykernel
+
+streamlit
+plotly
